@@ -1,0 +1,121 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+header{
+
+    height: 100px;
+    width: 100%;
+    background-color:paleturquoise;
+    
+}
+
+header p{
+    font-size: xx-large;
+    font-weight:bolder;
+    color:royalblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    float: right;
+    top: 65px;
+    right: 40px;
+    position: relative;
+}
+
+header p:hover{
+    background-color: white;
+
+}
+
+
+
+
+header img{
+    height: 50%;
+    top: 50px;
+    float: left;
+    position: relative;
+    left: 30px;    
+       
+
+}
+
+
+
+/* -------------- ASIDE LİSTEEE ----------------- */
+
+aside div{
+    float: left;
+    width: 12%;
+    height: 837px;
+    background-color: teal;
+}
+
+aside h1{
+    color: black;
+}
+
+
+
+
+/* -------------- PRODUCTS main ----------------- */
+
+main .product-main{
+    float: right;
+    width: 80%;
+    text-align: center;
+    
+}
+
+main .product-main p{
+    position: relative;
+    margin-right: 300px;
+    
+    
+}
+
+main .product-table{
+    position: relative;    
+    left: 10px;
+    width: 80%;
+    margin-right: 900px;
+
+}
+
+
+
+main .table-head{
+    background-color:rgb(31, 30, 30);
+
+}
+
+main .table-head th{
+    color:azure;
+    font-weight: bold;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+
+
+
+/* -------------- ADD PRODUCTS ----------------- */
+
+
+
+
+footer .right{
+    clear: right;
+    width: 20%;
+    text-align: center;
+    margin-top: 50px;
+    
+    
+    
+
+   
+}
+
+
